@@ -60,6 +60,6 @@ When exploited, it can:
 ### Setup:
 
 ```bash
-git clone https://github.com/yourusername/idrac-auto-exploit
-cd idrac-auto-exploit
+git clone https://github.com/miorin002/H-I_AIO/
+cd H-I_AIO
 pip install requests
